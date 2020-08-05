@@ -1,0 +1,7 @@
+https://www.carnal0wnage.com/papers/LARES-ColdFusion.pdf
+https://codewhitesec.blogspot.com/2018/03/exploiting-adobe-coldfusion.html
+http://kaoticcreations.blogspot.com/2012/11/hacking-cold-fusion-servers-part-ii.html
+https://ech1.netlify.app/htb/easy/6
+https://whiteoaksecurity.com/blog/2019/9/3/blazeds-java-object-deserialization-exploit-walkthrough
+http://gursevkalra.blogspot.com/2016/01/ysoserial-commonscollections1-exploit.html
+https://www.coalfire.com/the-coalfire-blog/sept-2018/exploiting-blind-java-deserialization
