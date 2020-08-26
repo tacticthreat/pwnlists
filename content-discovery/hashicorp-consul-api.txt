@@ -2,6 +2,9 @@
 
 /v1/agent/services
 /v1/acl/token/self
+/v1/identity/entity/id?list=true
+/v1/identity/group/id?list=true
+/v1/sys/namespaces?list=true
 /v1/acl/tokens
 /v1/catalog/datacenters
 /v1/catalog/services
@@ -35,3 +38,4 @@
 /v1/sys/license/features
 /v1/sys/health?standbycode=200&sealedcode=200&uninitcode=200&drsecondarycode=200&performancestandbycode=200
 /v1/sys/health
+/v1/sys/policies/acl
