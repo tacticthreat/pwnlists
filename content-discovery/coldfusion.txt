@@ -117,6 +117,7 @@
 /a4j/
 /flex2gateway/amf 
 /adminroles/
+/CFIDE/scripts/ajax/FCKeditor/editor/filemanager/browser/default/frmupload.html
 /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.wizards.common.utils&path=/CFIDE/wizards/common/utils.cfc
 /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.adminapi.security&path=/CFIDE/adminapi/security.cfc
 /CFIDE/componentutils/cfcexplorer.cfc?method=getcfcinhtml&name=CFIDE.adminapi.runtime&path=/CFIDE/adminapi/runtime.cfc
